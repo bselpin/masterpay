@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b19c0f0.chunk.css",
-    "main.js": "/static/js/main.b29f2345.chunk.js",
-    "main.js.map": "/static/js/main.b29f2345.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8c19b312.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8c19b312.js.map",
-    "static/js/2.71daff46.chunk.js": "/static/js/2.71daff46.chunk.js",
-    "static/js/2.71daff46.chunk.js.map": "/static/js/2.71daff46.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.550e76a14c3b4048bdbf493eb945a2b6.js": "/precache-manifest.550e76a14c3b4048bdbf493eb945a2b6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3b19c0f0.chunk.css.map": "/static/css/main.3b19c0f0.chunk.css.map",
-    "static/js/2.71daff46.chunk.js.LICENSE.txt": "/static/js/2.71daff46.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/static/media/xwidget.e1c1de67.svg",
-    "static/media/master.scss": "/static/media/pay03.eca1ff9b.png"
+    "main.css": "/masterpay/static/css/main.b75cebfc.chunk.css",
+    "main.js": "/masterpay/static/js/main.b29f2345.chunk.js",
+    "main.js.map": "/masterpay/static/js/main.b29f2345.chunk.js.map",
+    "runtime-main.js": "/masterpay/static/js/runtime-main.442f4a59.js",
+    "runtime-main.js.map": "/masterpay/static/js/runtime-main.442f4a59.js.map",
+    "static/js/2.71daff46.chunk.js": "/masterpay/static/js/2.71daff46.chunk.js",
+    "static/js/2.71daff46.chunk.js.map": "/masterpay/static/js/2.71daff46.chunk.js.map",
+    "index.html": "/masterpay/index.html",
+    "precache-manifest.a9985b23ce44c227c1eacee18410904d.js": "/masterpay/precache-manifest.a9985b23ce44c227c1eacee18410904d.js",
+    "service-worker.js": "/masterpay/service-worker.js",
+    "static/css/main.b75cebfc.chunk.css.map": "/masterpay/static/css/main.b75cebfc.chunk.css.map",
+    "static/js/2.71daff46.chunk.js.LICENSE.txt": "/masterpay/static/js/2.71daff46.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/masterpay/static/media/xwidget.e1c1de67.svg",
+    "static/media/master.scss": "/masterpay/static/media/pay03.eca1ff9b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c19b312.js",
+    "static/js/runtime-main.442f4a59.js",
     "static/js/2.71daff46.chunk.js",
-    "static/css/main.3b19c0f0.chunk.css",
+    "static/css/main.b75cebfc.chunk.css",
     "static/js/main.b29f2345.chunk.js"
   ]
 }
